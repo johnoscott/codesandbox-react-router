@@ -4,7 +4,7 @@
     "An example of React Router copied from https://reacttraining.com/react-router/web/guides/quick-start.",
   "version": "0.0.0",
   "dependencies": {
-    "bootstrap": "4.1.0",
+    "bootstrap": "3.3.7",
     "react": "15.4.2",
     "react-bootstrap": "0.32.1",
     "react-dom": "15.4.2",
